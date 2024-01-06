@@ -6,7 +6,7 @@ Welcome to the Netflix Odyssey Exploratory Data Analysis (EDA) project! 🎬✨ 
 
 This project aims to analyze various facets of Netflix content, providing insights into the streaming giant's diverse library. From content types and TV ratings to top directors, content evolution, and sentiment analysis, we've embarked on a data-driven journey to unravel streaming secrets.
 
-To view the complete SQL file, click [here]((https://github.com/Ani-Gomes3003/NetflixEDA/blob/main/netflix-eda-project-5.ipynb)).
+To view the complete SQL file, click [here](https://github.com/Ani-Gomes3003/NetflixEDA/blob/main/netflix-eda-project-5.ipynb).
 
 ## Key Findings
 
