@@ -6,6 +6,7 @@ Welcome to the Netflix Odyssey Exploratory Data Analysis (EDA) project! 🎬✨ 
 
 This project aims to analyze various facets of Netflix content, providing insights into the streaming giant's diverse library. From content types and TV ratings to top directors, content evolution, and sentiment analysis, we've embarked on a data-driven journey to unravel streaming secrets.
 
+To view the complete SQL file, click [here](https://github.com/Ani-Gomes3003/Covid19DataExploration-andViz/blob/main/SQL_COVID_19datalorationproject.sql).
 ## Key Findings
 
 ### 1. Content Extravaganza 🎥
@@ -32,10 +33,3 @@ This project aims to analyze various facets of Netflix content, providing insigh
 
 - **Insight:** Sentiment analysis reveals a rise in positive vibes, signaling a deeper connection.
 - **Question:** Share a Netflix show that left you with mixed emotions.
-
-## Getting Started
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/netflix-odyssey-eda.git
-   cd netflix-odyssey-eda
